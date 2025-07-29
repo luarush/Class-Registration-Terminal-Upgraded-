@@ -1,1 +1,1 @@
-# Registration-Terminal-Upgraded-
+# Class Registration-Terminal-Upgraded-
